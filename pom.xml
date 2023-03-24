@@ -5,7 +5,7 @@
     <artifactId>ionos-cloud-sdk-dataplatform</artifactId>
     <packaging>jar</packaging>
     <name>ionos-cloud-sdk-dataplatform</name>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <url>https://github.com/ionos-cloud/sdk-java-dataplatform</url>
     <description>The API allows you to perform a variety of management tasks such as provisioning new resources in the ionos cloud.</description>
     <scm>

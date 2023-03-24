@@ -4,14 +4,14 @@ All URIs are relative to *https://api.ionos.com/dataplatform*
 
 | Method | HTTP request | Description |
 | ------------- | ------------- | ------------- |
-| [**versionsGet**](DataPlatformMetaDataApi.md#versionsget) | **GET** /versions | Managed Data Stack API version |
+| [**versionsGet**](DataPlatformMetaDataApi.md#versionsget) | **GET** /versions | Managed Stackable Data Platform API Versions |
 
 
 <a name="versionsGet"></a>
 # **versionsGet**
 > List&lt;String&gt; versionsGet()
 
-Managed Data Stack API version
+Managed Stackable Data Platform API Versions
 
 Retrieves all available versions of the Managed Stackable Data Platform.
 
